@@ -51,9 +51,6 @@ In recent years, I've been learning new technologies and languages. These are th
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tarikul-Islam-anik&hide_border=true&background=262A33&ring=43FFAF&fire=43FFAF&currStreakNum=E5F7EF&sideLabels=E5F7EF&dates=526777&currStreakLabel=E5F7EF&sideNums=43FFAF" /></p>
 
-## Disocrd Activity <img src="assets/images/Cyclone.png" width="30">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/430616499674284033?bg=262a33)](https://discord.com/users/430616499674284033)
 
 ## Life Tracker
 
