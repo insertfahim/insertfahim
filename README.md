@@ -1,6 +1,6 @@
 # As-salamu alaykum <img src="assets/images/Waving Hand Medium-Light Skin Tone.png" width="29px">
 
-I'm Tarikul, a passionate full-stack developer and undergrad student with 3 years of professional coding experience.
+I'm Tasnimul, a passionate full-stack developer and undergrad student with 3 years of professional coding experience.
 
 My journey began with web development, but my curiosity extends to the exciting world of AI, ML, and data science. Recently, I've delved into these fields and am eager to become a master. I also possess intermediate skills in developing cross-platform mobile apps. I’m proficient in Python, Typescript, and Dart, with a keen interest in expanding my language proficiency.
 
@@ -35,7 +35,7 @@ In recent years, I've been learning new technologies and languages. These are th
 
 - <img src="assets/images/School.png" width="25"> **BRAC University**:
   - **Completing Bachelor of Science Degree in Computer Science and Engineering**
-    - January 28, 2022 (Present)
+    - June 28, 2021 (Present)
 - <img src="assets/images/Computer Mouse.png" width="25"> **LeftKlick**:
   - **Former Co-founder • Graphics Designer**
     - August 15, 2021 – May 22, 2022.
