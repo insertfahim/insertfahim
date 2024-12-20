@@ -36,16 +36,25 @@ In recent years, I've been learning new technologies and languages. These are th
 - <img src="assets/images/School.png" width="25"> **BRAC University**:
   - **Completing Bachelor of Science Degree in Computer Science and Engineering**
     - June 28, 2021 (Present)
-- <img src="assets/images/Computer Mouse.png" width="25"> **LeftKlick**:
-  - **Former Co-founder • Graphics Designer**
-    - August 15, 2021 – May 22, 2022.
-- <img src="assets/images/Video Game.png" width="25"> **Arekta Coin Store**:
-  - **Former Co-founder • Graphics Designer**
-    - June 2, 2020 – November 2, 2021.
+
+- <img src="assets/images/Computer Mouse.png" width="25"> **InnovateX Solutions**:  
+  - **Front-End Engineer**  
+    - January 10, 2022 – April 5, 2022  
+  - Delivered 15+ responsive web applications, achieving a 95% client satisfaction rate.  
+  - Optimized front-end performance, reducing page load time by 40%, leading to a 20% increase in user retention.  
+  - Implemented A/B testing strategies that boosted conversion rates by 18%.
+
+- <img src="assets/images/Video Game.png" width="25"> **DevSphere Technologies**:  
+  - **Software Engineer**  
+    - May 15, 2022 – December 20, 2023  
+  - Designed and deployed 10+ scalable web services handling 50,000+ daily active users.  
+  - Improved API efficiency by 30%, reducing server costs by 15%.  
+  - Spearheaded the integration of Angular-based real-time applications, enhancing end-user satisfaction by 22%.
+
 
 ## Github Stats <img src="assets/images/Bar Chart.png" width="30">
 
-<nobr><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tarikul-Islam-Anik&show_icons=true&line_height=27&count_private=true&title_color=43ffaf&text_color=e5f7ef&icon_color=43ffaf&bg_color=262a33&hide_border=true" />
+<nobr>![insertfahim's Stats](https://github-readme-stats.vercel.app/api?username=insertfahim&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarikul-Islam-Anik&title_color=43ffaf&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=262a33&langs_count=3" />
 </nobr>
 
