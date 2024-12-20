@@ -54,11 +54,15 @@ In recent years, I've been learning new technologies and languages. These are th
 
 ## Github Stats <img src="assets/images/Bar Chart.png" width="30">
 
-<nobr>![insertfahim's Stats](https://github-readme-stats.vercel.app/api?username=insertfahim&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarikul-Islam-Anik&title_color=43ffaf&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=262a33&langs_count=3" />
-</nobr>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=insertfahim&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="insertfahim's Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarikul-Islam-Anik&title_color=43ffaf&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=262a33&langs_count=3" alt="Top Languages" />
+</p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tarikul-Islam-anik&hide_border=true&background=262A33&ring=43FFAF&fire=43FFAF&currStreakNum=E5F7EF&sideLabels=E5F7EF&dates=526777&currStreakLabel=E5F7EF&sideNums=43FFAF" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tarikul-Islam-anik&hide_border=true&background=262A33&ring=43FFAF&fire=43FFAF&currStreakNum=E5F7EF&sideLabels=E5F7EF&dates=526777&currStreakLabel=E5F7EF&sideNums=43FFAF" alt="GitHub Streak" />
+</p>
+
 
 
 ## Life Tracker
