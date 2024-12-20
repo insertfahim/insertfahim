@@ -38,18 +38,18 @@ In recent years, I've been learning new technologies and languages. These are th
     - June 28, 2021 (Present)
 
 - <img src="assets/images/Computer Mouse.png" width="25"> **InnovateX Solutions**:  
-  - **Front-End Engineer**  
+  - **Front-End Developer**  
     - January 10, 2022 – April 5, 2022  
-  - Delivered 15+ responsive web applications, achieving a 95% client satisfaction rate.  
-  - Optimized front-end performance, reducing page load time by 40%, leading to a 20% increase in user retention.  
-  - Implemented A/B testing strategies that boosted conversion rates by 18%.
+  - Built 15+ interactive and responsive web applications using React.js and CSS frameworks, achieving a 95% client satisfaction rate.  
+  - Improved page load speeds by 40% through code optimization and asset minification, resulting in a 20% increase in user retention.  
+  - Conducted A/B testing to refine UI/UX, increasing conversion rates by 18%.
 
 - <img src="assets/images/Video Game.png" width="25"> **DevSphere Technologies**:  
-  - **Software Engineer**  
+  - **Web Developer**  
     - May 15, 2022 – December 20, 2023  
-  - Designed and deployed 10+ scalable web services handling 50,000+ daily active users.  
-  - Improved API efficiency by 30%, reducing server costs by 15%.  
-  - Spearheaded the integration of Angular-based real-time applications, enhancing end-user satisfaction by 22%.
+  - Designed and deployed 10+ scalable and responsive websites with React and TypeScript, handling over 50,000 daily active users.  
+  - Enhanced API integration and front-end communication, improving efficiency by 30% and reducing server costs by 15%.  
+  - Led the development of Angular-based real-time dashboards, boosting end-user satisfaction by 22%.
 
 
 ## Github Stats <img src="assets/images/Bar Chart.png" width="30">
