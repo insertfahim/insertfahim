@@ -82,6 +82,7 @@ In recent years, I've been learning new technologies and languages. These are th
 - <img src="assets/images/Cross Mark.png" width="15"> Gaming <img src="assets/images/Alien Monster.png" width="25"> `Quited in 2021`
 - <img src="assets/images/Cross Mark.png" width="15"> Anime <img src="assets/images/Fish Cake with Swirl.png" width="25"> `Stopped watching in 2021`
 
+<!-- 
 ## Loved my work? <img src="assets/images/Heart on Fire.png" width="30">
 
 <img src="assets/images/Star.png" width="25"/>&nbsp;[Give a star to this project](https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik) <br/>
@@ -92,5 +93,6 @@ In recent years, I've been learning new technologies and languages. These are th
 
 > <img src="assets/images/Thinking Face.png" width="25"/> &nbsp; Wondering where to get these animated emojis?
 > [Visit here!](https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis) You also should look around my other github repos. Maybe you'll find some cool useful stuff there.
+-->
 
 ### Thanks for visiting!&nbsp;<img src="assets/images/Partying Face.png" width="25">
