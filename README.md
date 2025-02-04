@@ -1,6 +1,6 @@
 # As-salamu alaykum <img src="assets/images/Waving Hand Medium-Light Skin Tone.png" width="29px">
 
-I'm Tasnimul, a passionate full-stack developer and undergrad student with 3 years of professional coding experience.
+I'm Fahim, a passionate full-stack developer and undergrad student with 3 years of professional coding experience.
 
 My journey began with web development, but my curiosity extends to the exciting world of AI, ML, and data science. Recently, I've delved into these fields and am eager to become a master. I also possess intermediate skills in developing cross-platform mobile apps. I’m proficient in Python, Typescript, and Dart, with a keen interest in expanding my language proficiency.
 
